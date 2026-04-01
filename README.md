@@ -2,7 +2,7 @@
 <h3 align="center">Senior Salesforce Developer | Building Scalable & Intelligent Solutions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reis-daniele" target="_blank">
+  <a href="https://www.linkedin.com/in/reisdaniele" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://wa.me/5571999038207" target="_blank">
@@ -67,7 +67,7 @@ I'm always open to interesting conversations, opportunities, and collaborations.
 </p>
 
 <ul>
-  <li>💼 LinkedIn: https://www.linkedin.com/in/reis-daniele</li>
+  <li>💼 LinkedIn: https://www.linkedin.com/in/reisdaniele</li>
   <li>💬 WhatsApp: https://wa.me/55999038207</li>
   <li>📧 Email: droliver.dev@gmail.com</li>
 </ul>
